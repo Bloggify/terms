@@ -1,3 +1,90 @@
 # Terms
 
-TODO
+---
+title: Terms
+order: 4
+---
+
+Hey there! We're Bloggify and we're happy that you are here, on our website. When we say **we**, **us** or **Bloggify** it's because that's who we are. We own and run the Bloggify website.
+
+By navigating on this website you agree to follow the the terms explained on this page. Please read and understand them.
+If you don't accept them, then we'll be sorry, but you will need to leave.
+
+You promise that information you give us is true, accurate and complete.
+
+In the Checkout process, we will ask you to provide your real name, billing address, email address and the credit card information. The card information is *not* stored on our side but securely sent to [Braintree](https://braintreepayments.com)– the service which handles the credit card payments.
+
+Your real name and address will be used for invoicing.
+
+### How buying things works
+
+In this this section we will explain how the process works when you decide to buy something on our website.
+
+Some of products sold on Bloggify are owned by us and some are owned by other authors. You will find that information in each product description.
+
+What are you actually buying? When you buy something on our website, you are not acquiring the actual item, instead you acquire the right or a license to use that item. The license is granted to you directly by the author. Make sure you understand the license type for the item you are buying. If you are letting other people use your item, make sure you choose the right license to allow that use.
+
+The products are listed on the website. By visiting the product page you can open add it to the cart. If you want to buy more items, that's possible too.
+
+The product price is listed on the product page.
+
+On the Checkout page you will see the amounts for each item and the grand total. The payment is done via credit card. The payment is processed by [Braintree](https://braintreepayments.com).
+
+The currency is euro (EUR).
+
+When you buy something, you are doing so on the following terms:
+
+ - you promise you considered the suitability of your chosen license, and that you have chosen appropriately
+ - you cannot cancel a completed purchase of an item
+ - we do not promise that any particular item will continue to be available, so you should download and save the item as soon as you buy it
+ - you understand that others might also bought a particular item under the same license
+ - the author retains ownership of the item
+ - your relevant details may be provided to the author of the item in order to facilitate the transaction (generally for invoicing and item support)
+ - the billing information you provide is correct and complete
+
+### Refunds
+
+We do *not* grant refunds on the purchases made on this website.
+
+### Prohibited Conduct
+
+You promise that you will not use a false email address, fake personal information, impersonate others, or misrepresent your affiliation with others
+
+### Intellectual Property
+
+Basically, we own all the Bloggify  content unless otherwise stated and excluding content owned by others. We respect the intellectual property rights of others and we expect our users to do the same. Please contact us if you think that an item or content infringes an intellectual property right.
+
+### Disclaimer and limitation of liability
+
+You agree to indemnify us against all losses, costs (including legal costs on a full indemnity basis), expenses, demands or liability that we incur arising out of, or in connection with, a third party claim against us relating to your use of Bloggify and any content you post to Bloggify (including, if you are an author, your items). We disclaim liability relating to these applications the items on Bloggify.
+
+Our liability to you in connection with Bloggify is limited as follows:
+- we exclude liability for any of these things incurred by you: loss of revenue, loss of profit, loss of goodwill, loss of customers, loss of capital, damage to reputation, loss in connection with any other contract, loss of data, or indirect, consequential or special loss, damage or expense; and;
+- our total liability to you is limited to the total buyer fees and author fees paid by you in the 12 months before liability accrued.
+
+### Linking to us
+
+We would be so happy if you decide to link to Bloggify from other sites but you have to link to a full version of a page and not link directly to an image or file hosted on our website.
+
+You must not embed the Bloggify pages on other websites.
+
+As our sites are global, there are different laws that may apply and these may restrict our relationship with you.
+
+### Notices & Requests
+
+Any notice you send us must be submitted to `support<at>bloggify<dot>org`. The answer will be sent back to your email address.
+
+### Changes
+
+We may change these terms at any time. If you continue to use the Bloggify website after the changes are made, then you will be agreeing to the changes.
+
+### Applicable Laws
+
+We control and operate the Bloggify from Romania. The laws of Romania govern these terms, and you submit to the jurisdiction of the courts there for the resolution of any dispute between us.
+
+
+
+
+
+
+
