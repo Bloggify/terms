@@ -1,4 +1,4 @@
-# Terms
+# Terms of Service
 
 ---
 title: Terms
