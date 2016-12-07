@@ -2,9 +2,7 @@
 
 ### Information we collect
 
-On Bloggify we may ask you to provide personal information, such as your e-mail address, name, home address, or telephone number.
-
-When you decide to buy something on our website, we will also need your invoicing data (name, email address and billing address).
+On Bloggify we may ask you to provide personal information, such as your e-mail address, name, home address, or telephone number. When you decide to buy something on our website, we will also need your invoicing data.
 
 ### Credit Card Information
 
@@ -12,7 +10,7 @@ The card information is *not* stored on our side but securely sent to [Braintree
 
 ### Cookies & Local Storage
 
-By navigating on our website, you agree with storing cookies in your browser. As we are sure you know, cookies are used to store your preferences and other information on your computer, in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content when you visit our website later. And don't worry, cookies cannot be used to run programs or deliver viruses to your computer.
+By navigating on our website, you agree with storing cookies (sorry, not the chocolate ones) in your browser. As we are sure you know, cookies are used to store your preferences and other information on your computer, in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content when you visit our website later. And don't worry, cookies cannot be used to run programs or deliver viruses to your computer.
 
 We use the `localStorage` to store cart related information in your browser to ship a smooth experience.
 
