@@ -10,12 +10,6 @@ Hey there! We're Bloggify and we're happy that you are here, on our website. Whe
 By navigating on this website you agree to follow the the terms explained on this page. Please read and understand them.
 If you don't accept them, then we'll be sorry, but you will need to leave.
 
-You promise that information you give us is true, accurate and complete.
-
-In the Checkout process, we will ask you to provide your real name, billing address, email address and the credit card information. The card information is *not* stored on our side but securely sent to [Braintree](https://braintreepayments.com)– the service which handles the credit card payments.
-
-Your real name and address will be used for invoicing.
-
 ### How buying things works
 
 In this this section we will explain how the process works when you decide to buy something on our website.
@@ -42,6 +36,8 @@ When you buy something, you are doing so on the following terms:
  - your relevant details may be provided to the author of the item in order to facilitate the transaction (generally for invoicing and item support)
  - the billing information you provide is correct and complete
 
+Should you encounter any problems during the buying process, feel free to contact us at `support<at>bloggify<dot>org`.
+
 ### Refunds
 
 We do *not* grant refunds on the purchases made on this website.
@@ -54,13 +50,9 @@ You promise that you will not use a false email address, fake personal informati
 
 Basically, we own all the Bloggify  content unless otherwise stated and excluding content owned by others. We respect the intellectual property rights of others and we expect our users to do the same. Please contact us if you think that an item or content infringes an intellectual property right.
 
-### Disclaimer and limitation of liability
+### No Liability
 
-You agree to indemnify us against all losses, costs (including legal costs on a full indemnity basis), expenses, demands or liability that we incur arising out of, or in connection with, a third party claim against us relating to your use of Bloggify and any content you post to Bloggify (including, if you are an author, your items). We disclaim liability relating to these applications the items on Bloggify.
-
-Our liability to you in connection with Bloggify is limited as follows:
-- we exclude liability for any of these things incurred by you: loss of revenue, loss of profit, loss of goodwill, loss of customers, loss of capital, damage to reputation, loss in connection with any other contract, loss of data, or indirect, consequential or special loss, damage or expense; and;
-- our total liability to you is limited to the total buyer fees and author fees paid by you in the 12 months before liability accrued.
+You agree that we cannot be liable for your use of the website or the content that is posted on Bloggify by other users.
 
 ### Linking to us
 
