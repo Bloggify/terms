@@ -10,37 +10,11 @@ Hey there! We're Bloggify and we're happy that you are here, on our website. Whe
 By navigating on this website you agree to follow the the terms explained on this page. Please read and understand them.
 If you don't accept them, then we'll be sorry, but you will need to leave.
 
-### How buying things works
+### GENERAL TERMS
 
-In this this section we will explain how the process works when you decide to buy something on our website.
+### Service
 
-Some of products sold on Bloggify are owned by us and some are owned by other authors. You will find that information in each product description.
-
-What are you actually buying? When you buy something on our website, you are not acquiring the actual item, instead you acquire the right or a license to use that item. The license is granted to you directly by the author. Make sure you understand the license type for the item you are buying. If you are letting other people use your item, make sure you choose the right license to allow that use.
-
-The products are listed on the website. By visiting the product page you can open add it to the cart. If you want to buy more items, that's possible too.
-
-The product price is listed on the product page.
-
-On the Checkout page you will see the amounts for each item and the grand total. The payment is done via credit card. The payment is processed by [Braintree](https://braintreepayments.com).
-
-The currency is euro (EUR).
-
-When you buy something, you are doing so on the following terms:
-
- - you promise you considered the suitability of your chosen license, and that you have chosen appropriately
- - you cannot cancel a completed purchase of an item
- - we do not promise that any particular item will continue to be available, so you should download and save the item as soon as you buy it
- - you understand that others might also bought a particular item under the same license
- - the author retains ownership of the item
- - your relevant details may be provided to the author of the item in order to facilitate the transaction (generally for invoicing and item support)
- - the billing information you provide is correct and complete
-
-Should you encounter any problems during the buying process, feel free to contact us at `support<at>bloggify<dot>org`.
-
-### Refunds
-
-We do *not* grant refunds on the purchases made on this website.
+Bloggify is a NodeJS platform providing a simple way to build a blog in minutes. We focus on modularity, flexibility, simplicity and speed. You will need to create an account and accept these terms to become a member of our awesome community. The account will also allow  you to buy and sell items on the Bloggify Market sites and make other related transactions (see below for specific terms related to the Bloggify Market). 
 
 ### Prohibited Conduct
 
@@ -74,8 +48,39 @@ We may change these terms at any time. If you continue to use the Bloggify websi
 
 We control and operate the Bloggify from Romania. The laws of Romania govern these terms, and you submit to the jurisdiction of the courts there for the resolution of any dispute between us.
 
+### BLOGGIFY MARKET TERMS
 
+### How buying things works
 
+In this this section we will explain how the process works when you decide to buy something on our website.
+
+Some of products sold on Bloggify are owned by us and some are owned by other authors. You will find that information in each product description.
+
+What are you actually buying? When you buy something on our website, you are not acquiring the actual item, instead you acquire the right or a license to use that item. The license is granted to you directly by the author. Make sure you understand the license type for the item you are buying. If you are letting other people use your item, make sure you choose the right license to allow that use.
+
+The products are listed on the website. By visiting the product page you can open add it to the cart. If you want to buy more items, that's possible too.
+
+The product price is listed on the product page.
+
+On the Checkout page you will see the amounts for each item and the grand total. The payment is done via credit card. The payment is processed by [Braintree](https://braintreepayments.com).
+
+The currency is euro (EUR).
+
+When you buy something, you are doing so on the following terms:
+
+ - you promise you considered the suitability of your chosen license, and that you have chosen appropriately
+ - you cannot cancel a completed purchase of an item
+ - we do not promise that any particular item will continue to be available, so you should download and save the item as soon as you buy it
+ - you understand that others might also bought a particular item under the same license
+ - the author retains ownership of the item
+ - your relevant details may be provided to the author of the item in order to facilitate the transaction (generally for invoicing and item support)
+ - the billing information you provide is correct and complete
+
+Should you encounter any problems during the buying process, feel free to contact us at `support<at>bloggify<dot>org`.
+
+### Refunds
+
+We do *not* grant refunds on the purchases made on this website.
 
 
 
