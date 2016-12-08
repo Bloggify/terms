@@ -1,20 +1,9 @@
 # Terms of Service
 
----
-title: Terms
-order: 4
----
-
 Hey there! We're Bloggify and we're happy that you are here, on our website. When we say **we**, **us** or **Bloggify** it's because that's who we are. We own and run the Bloggify website.
 
 By navigating on this website you agree to follow the the terms explained on this page. Please read and understand them.
 If you don't accept them, then we'll be sorry, but you will need to leave.
-
-### GENERAL TERMS
-
-### Service
-
-Bloggify is a NodeJS platform providing a simple way to build a blog in minutes. We focus on modularity, flexibility, simplicity and speed. You will need to create an account and accept these terms to become a member of our awesome community. The account will also allow you to buy and sell items on the Bloggify Market sites and make other related transactions (see below for specific terms related to the Bloggify Market). 
 
 ### Prohibited Conduct
 
@@ -48,7 +37,9 @@ We may change these terms at any time. If you continue to use the Bloggify websi
 
 We control and operate the Bloggify from Romania. The laws of Romania govern these terms, and you submit to the jurisdiction of the courts there for the resolution of any dispute between us.
 
-### BLOGGIFY MARKET TERMS
+## Bloggify Market
+
+The Bloggify Market is a place where you can buy goodies (such as JavaScript libraries, Node.js modules etc) you can integrate in your apps.
 
 ### How buying things works
 
@@ -81,7 +72,3 @@ Should you encounter any problems during the buying process, feel free to contac
 ### Refunds
 
 We do *not* grant refunds on the purchases made on this website.
-
-
-
-
