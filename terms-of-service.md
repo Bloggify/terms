@@ -14,7 +14,7 @@ If you don't accept them, then we'll be sorry, but you will need to leave.
 
 ### Service
 
-Bloggify is a NodeJS platform providing a simple way to build a blog in minutes. We focus on modularity, flexibility, simplicity and speed. You will need to create an account and accept these terms to become a member of our awesome community. The account will also allow  you to buy and sell items on the Bloggify Market sites and make other related transactions (see below for specific terms related to the Bloggify Market). 
+Bloggify is a NodeJS platform providing a simple way to build a blog in minutes. We focus on modularity, flexibility, simplicity and speed. You will need to create an account and accept these terms to become a member of our awesome community. The account will also allow you to buy and sell items on the Bloggify Market sites and make other related transactions (see below for specific terms related to the Bloggify Market). 
 
 ### Prohibited Conduct
 
