@@ -40,7 +40,7 @@ Some of the products sold on Bloggify are owned by us and some are owned by othe
 
 What are you actually buying? When you buy something on our website, you are not acquiring the actual item, instead, you acquire the right or a license to use that item. The license is granted to you directly by the author. Make sure you understand the license type for the item you are buying. If you are letting other people use your item, make sure you choose the right license to allow that use.
 
-The products are listed on the website. By visiting the product page you can open add it to the cart. If you want to buy more items, that's possible too.
+The products are listed on the website. By visiting the product page you can add it to your cart. If you want to buy more items, that's possible too.
 
 The product price is listed on the product page.
 
