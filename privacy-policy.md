@@ -7,7 +7,7 @@ On our websites we may ask you to provide personal information, such as your e-m
 The card information is *not* stored on our side but securely sent to [Braintree](https://braintreepayments.com)–the service which handles the credit card payments.
 
 ### Cookies & Local Storage
-By navigating on our websites, you agree with storing cookies (sorry, not the chocolate ones) in your browser. As we are sure you know, cookies are used to store your preferences and other information on your computer, in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content when you visit our website later. And don't worry, cookies cannot be used to run programs or deliver viruses to your computer. We will not always store cookies in your browser, but when we will do it we'll try the best.
+By navigating on our websites, you agree with storing cookies (sorry, not the chocolate ones) in your browser. As we are sure you know, cookies are used to store your preferences and other information on your computer, in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content when you visit our website later. And don't worry, cookies cannot be used to run programs or deliver viruses to your computer. We will not always store cookies in your browser, but when we do we will do our best to protect your personal data.
 
 Also, we may use local browser storage to store some data (such as cart related information).
 
